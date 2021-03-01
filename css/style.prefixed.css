@@ -5,6 +5,7 @@ h1 {
     font-weight: 700;
     line-height: 1.2; 
     color: yellow;
+    display: -ms-flexbox;
     display: flex;
 }
 p {
